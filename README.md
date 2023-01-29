@@ -5,8 +5,7 @@ Comment allez vous
 
 **Test de la page**
 
-| --- |
-|     |
+
 
 |  test  | docteur  | coco  | shhhs  |
 | ------ | -------- | ----- | ------ |
