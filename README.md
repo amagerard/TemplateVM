@@ -1,12 +1,14 @@
 # Freeradius
+**Bonjour**
 
-<code style="color : name_color">text</code>
+Comment allez vous
 
-The background color should be `#0969DA` for light mode and `#0d1117` for dark mode
+**Test de la page**
 
+| --- |
+|     |
 
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
+|  test  | docteur  | coco  | shhhs  |
+| ------ | -------- | ----- | ------ |
+| marque | elephant | lslsl | jsjjs  |
+| cloawn | oreille  | qllq  | qhhqqh |
