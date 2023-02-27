@@ -1,4 +1,5 @@
+TemplateVM is a model to install servers with Almalinux.  
+AlmaLinux OS is 1:1 binary compatible with RHEL® and pre-Stream CentOS.  
+
 Please checkout the wiki. https://github.com/amagerard/TemplateVM/wiki  
-This wiki will soon be available in English.  
-This wiki is a copy of my personal wiki.  
-I did not invent anything. Everything is on the internet.  
+
